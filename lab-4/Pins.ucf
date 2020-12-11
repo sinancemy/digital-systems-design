@@ -1,0 +1,31 @@
+NET "MCLK" LOC = "P40";
+NET "L_Button" LOC = "P35";
+NET "R_Button" LOC = "P34";
+
+NET "LEDS(0)" LOC = "P16";
+NET "LEDS(1)" LOC = "P13";
+NET "LEDS(2)" LOC = "P6";
+NET "LEDS(3)" LOC = "P3";
+NET "LEDS(4)" LOC = "P93";
+NET "LEDS(5)" LOC = "P89";
+NET "LEDS(6)" LOC = "P86";
+NET "LEDS(7)" LOC = "P84";
+NET "LEDS(8)" LOC = "P83";
+NET "LEDS(9)" LOC = "P77";
+
+NET "SevenSegment(0)"  LOC = "P64"; 
+NET "SevenSegment(1)"  LOC = "P98"; 
+NET "SevenSegment(2)"  LOC = "P73"; 
+NET "SevenSegment(3)"  LOC = "P72"; 
+NET "SevenSegment(4)"  LOC = "P65"; 
+NET "SevenSegment(5)"  LOC = "P62"; 
+NET "SevenSegment(6)"  LOC = "P71"; 
+
+NET "SegmentAnodes(0)" LOC = "P50";
+NET "SegmentAnodes(1)" LOC = "P49";
+NET "SegmentAnodes(2)" LOC = "P52";
+NET "SegmentAnodes(3)" LOC = "P56";
+NET "SegmentAnodes(4)" LOC = "P59";
+NET "SegmentAnodes(5)" LOC = "P57";
+NET "SegmentAnodes(6)" LOC = "P60";
+NET "SegmentAnodes(7)" LOC = "P61";

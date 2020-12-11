@@ -1,0 +1,43 @@
+NET "MCLK"  LOC = "P40";     
+
+NET "A(0)"  LOC = "P15";    
+NET "A(1)"  LOC = "P12";    
+NET "A(2)"  LOC = "P5"; 
+NET "A(3)"  LOC = "P4"; 
+NET "A(4)"  LOC = "P94";    
+NET "A(5)"  LOC = "P90";
+NET "A(6)"  LOC = "P88";    
+NET "A(7)"  LOC = "P85";    
+
+NET "OPERATIONS(0)"  LOC = "P37";
+NET "OPERATIONS(1)"  LOC = "P32";
+NET "OPERATIONS(2)"  LOC = "P33";   
+NET "OPERATIONS(3)"  LOC = "P36";   
+NET "OPERATIONS(4)"  LOC = "P35";   
+NET "OPERATIONS(5)"  LOC = "P34";  
+
+NET "RESULT(0)" LOC = "P16";    
+NET "RESULT(1)" LOC = "P13";    
+NET "RESULT(2)" LOC = "P6"; 
+NET "RESULT(3)" LOC = "P3"; 
+NET "RESULT(4)" LOC = "P93";    
+NET "RESULT(5)" LOC = "P89";    
+NET "RESULT(6)" LOC = "P86";    
+NET "RESULT(7)" LOC = "P84";    
+
+NET "Anodes(0)" LOC = "P50"; 
+NET "Anodes(1)" LOC = "P49";
+NET "Anodes(2)" LOC = "P52";
+NET "Anodes(3)" LOC = "P56"; 
+NET "Anodes(4)" LOC = "P59";
+NET "Anodes(5)" LOC = "P57";
+NET "Anodes(6)" LOC = "P60";
+NET "Anodes(7)" LOC = "P61";
+
+NET "SevenSegment(0)" LOC = "P64"; 
+NET "SevenSegment(1)" LOC = "P98";
+NET "SevenSegment(2)" LOC = "P73";
+NET "SevenSegment(3)" LOC = "P72";
+NET "SevenSegment(4)" LOC = "P65";
+NET "SevenSegment(5)" LOC = "P62";
+NET "SevenSegment(6)" LOC = "P71";

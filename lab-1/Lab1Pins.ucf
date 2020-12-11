@@ -1,0 +1,3 @@
+NET "X" LOC = "P15";
+NET "Y" LOC = "P12";
+NET "Z" LOC = "P16";

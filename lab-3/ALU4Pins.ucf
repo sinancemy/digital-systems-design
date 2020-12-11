@@ -1,0 +1,37 @@
+NET "A(0)" LOC = "P15";
+NET "A(1)" LOC = "P12";
+NET "A(2)" LOC = "P5";
+NET "A(3)" LOC = "P4";
+NET "B(0)" LOC = "P94";
+NET "B(1)" LOC = "P90";
+NET "B(2)" LOC = "P88";
+NET "B(3)" LOC = "P85";
+NET "CIN" LOC = "P82";
+
+NET "S(0)" LOC = "P34";
+NET "S(1)" LOC = "P35";
+NET "M" LOC = "P78";
+
+NET "Anodes(0)"  LOC = "P50"  ;
+NET "Anodes(1)"  LOC = "P49"  ;
+NET "Anodes(2)"  LOC = "P52"  ;
+NET "Anodes(3)"  LOC = "P56"  ;
+NET "Anodes(4)"  LOC = "P59"  ;
+NET "Anodes(5)"  LOC = "P57"  ;
+NET "Anodes(6)"  LOC = "P60"  ;
+NET "Anodes(7)"  LOC = "P61"  ;
+NET "SevenSegment(0)"  LOC = "P64"  ; 
+NET "SevenSegment(1)"  LOC = "P98"  ; 
+NET "SevenSegment(2)"  LOC = "P73"  ; 
+NET "SevenSegment(3)"  LOC = "P72"  ; 
+NET "SevenSegment(4)"  LOC = "P65"  ; 
+NET "SevenSegment(5)"  LOC = "P62"  ; 
+NET "SevenSegment(6)"  LOC = "P71"  ; 
+NET "SIGN" LOC = "P77";
+NET "LEDS(0)" LOC = "P16";
+NET "LEDS(1)" LOC = "P13";
+NET "LEDS(2)" LOC = "P6";
+NET "LEDS(3)" LOC = "P3";
+NET "COUT" LOC = "P83";
+
+

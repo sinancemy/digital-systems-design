@@ -1,0 +1,12 @@
+NET "C3" LOC = "P85";
+NET "C2" LOC = "P88";
+NET "C1" LOC = "P90";
+NET "C0" LOC = "P94";
+NET "D3" LOC = "P4";
+NET "D2" LOC = "P5";
+NET "D1" LOC = "P12";
+NET "D0" LOC = "P15";
+
+NET "GCD" LOC = "P84";
+NET "E" LOC = "P86";
+NET "GDC" LOC = "P89";
